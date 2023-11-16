@@ -1,0 +1,8 @@
+/hadoop_install/code/sy2/demo/src/main/java/com/example/DefaultCountReducer.java
+/hadoop_install/code/sy2/demo/src/main/java/com/example/Driver.java
+/hadoop_install/code/sy2/demo/src/main/java/com/example/DailyLoanCountMapper.java
+/hadoop_install/code/sy2/demo/src/main/java/com/example/MyData.java
+/hadoop_install/code/sy2/demo/src/main/java/com/example/DefaultCountMapper.java
+/hadoop_install/code/sy2/demo/src/main/java/com/example/KNN_Mapper.java
+/hadoop_install/code/sy2/demo/src/main/java/com/example/DailyLoanCountReducer.java
+/hadoop_install/code/sy2/demo/src/main/java/com/example/KNN_Reducer.java
